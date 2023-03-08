@@ -1,0 +1,30 @@
+{
+  "1": {
+    "title": "Variables",
+    "description": "Containers for storing values",
+    "firebaseKey": "-MiTsfuTafbIE7eAUPxV",
+    "langTech": "JavaScript",
+    "uid": "pHjdHUbd"
+  },
+  "2": {
+    "title": "Syntax Error",
+    "description": "UProduced when a scripts format or shape is incorrect, a mispelling is found or test is not recognized",
+    "firebaseKey": "-MiBefuTbfbEQ7eKULxV",
+    "langTech": "JavaScript",
+    "uid": "Bojdkdbd"
+  },
+  "3": {
+    "title": "ID",
+    "description": "An HTML element can have an id attribute to identify it. id elements should always be unique to that single element, and each element should never have more than one id.",
+    "firebaseKey": "-MiIsfuTufbEU7eAULxV",
+    "langTech": "HTML",
+    "uid": "UEjdHUbd"
+  },
+  "4": {
+    "title": "href",
+    "description": "Links tell the browser where to go using an href attribute, which stores a URL.",
+    "firebaseKey": "-MiBsouNafbEQ7oAULxV",
+    "langTech": "HTML",
+    "uid": "qPjdlUbd"
+  }
+}
